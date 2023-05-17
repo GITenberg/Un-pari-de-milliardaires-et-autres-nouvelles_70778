@@ -1,0 +1,43 @@
+_repo: Un-pari-de-milliardaires-et-autres-nouvelles_70778
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Gaïl, François de
+    aliases:
+    - Gail, Francois de
+    - De Gaïl, François
+    birthdate: 1874
+    deathdate: 1947
+    gutenberg_agent_id: '4609'
+    url: http://www.gutenberg.org/2009/agents/4609
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2023-05-16'
+identifiers:
+  gutenberg: '70778'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k66075j
+pgterms:marc905: 20230128092955twain
+pgterms:marc906: '1905'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel, Chuck Greif and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bMercure de France, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Un pari de milliardaires et autres nouvelles
+url: http://www.gutenberg.org/ebooks/70778
