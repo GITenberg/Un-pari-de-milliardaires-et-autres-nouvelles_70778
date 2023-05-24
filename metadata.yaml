@@ -10,6 +10,9 @@ contributor:
     deathdate: 1947
     gutenberg_agent_id: '4609'
     url: http://www.gutenberg.org/2009/agents/4609
+covers:
+- cover_type: archival
+  image_path: 70778-h/images/cover.jpg
 creator:
   author:
     agent_name: Twain, Mark
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70778#Un-pari-de-milliardaires-et-autres-nouvelles
 gutenberg_issued: '2023-05-16'
 identifiers:
   gutenberg: '70778'
